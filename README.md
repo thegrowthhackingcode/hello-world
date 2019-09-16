@@ -1,3 +1,2 @@
 # hello-world
-My first repository
 Here's a bit about myself. I'm a Growth Hacker from Vienna, Austria. Currently, I'm in San Francisco and since I got here, I have written The Growth Hacking Code. In an attempt to clarify what Growth Hacking is all about, I created the Growth Hacking Process, which I explain and outline in The Growth Hacking Code. It's a mixture between what the great teachers of Growth Hacking have laid out in terms of groundwork for the methodology, my own experience in filling the knowledge gaps that were still there and, finally, a couple of hypotheses that I will try out with new clients after I have published this code.
